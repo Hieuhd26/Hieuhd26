@@ -14,6 +14,7 @@
 <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%2347A9B3"  width="40px"></img>
 <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"  width="40px"></img>
 <img src="https://devicon-website.vercel.app/api/react/original.svg"  width="40px"></img>
+<img src="https://devicon-website.vercel.app/api/typescript/original.svg"  width="40px"></img>
 
 
 
